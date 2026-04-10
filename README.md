@@ -8,7 +8,7 @@ The repository includes:
 - a PCA notebook that studies whether material and psychological outcomes move together as a common welfare dimension,
 - generated figures used in the project write-up.
 
-The main replication notebook explicitly covers data loading, baseline balance, main treatment effects, heterogeneity by recipient gender / transfer timing / transfer size, psychological outcomes, consumption outcomes, assets and enterprise outcomes, and a new extension on heterogeneity by baseline wealth. The public dataset used in the notebook has shape **(2880, 981)** in the current workflow. See the notebook headers and outputs in the repository files. citeturn747055view0turn800051view0
+The main replication notebook explicitly covers data loading, baseline balance, main treatment effects, heterogeneity by recipient gender / transfer timing / transfer size, psychological outcomes, consumption outcomes, assets and enterprise outcomes, and a new extension on heterogeneity by baseline wealth. The public dataset used in the notebook has shape **(2880, 981)** in the current workflow. See the notebook headers and outputs in the repository files. 
 
 ## Data source
 
@@ -99,5 +99,3 @@ This notebook is the natural follow-up once the timing-bin results are understoo
 The repository includes two saved figures:
 - `treatment_effects.png`
 - `hetero_treatment_effects.png`
-
-These are presentation-ready outputs generated from the analysis workflow and can be reused in slides or the final report. The repository also includes `Haushofer_Shapiro_UCT_QJE_2016.pdf` for reference and `varlist.xlsx` as a variable guide. 
