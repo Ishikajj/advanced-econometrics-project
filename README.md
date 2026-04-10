@@ -3,7 +3,7 @@
 This repository contains a replication and extension of **Haushofer & Shapiro (2016), _The Short-Term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya_**. The project reproduces core treatment-effect results from the public replication data and adds extension analyses on heterogeneity, timing, and the joint evolution of material and psychological outcomes.
 
 The repository includes:
-- a main replication notebook for data cleaning, sample construction, and treatment-effect estimation,
+- a main replication notebook for data cleaning, sample construction, and heterogeneous treatment-effect estimation,
 - a timing-bin ANCOVA notebook focused on the monthly-small transfer arm,
 - a PCA notebook that studies whether material and psychological outcomes move together as a common welfare dimension,
 - generated figures used in the project write-up.
