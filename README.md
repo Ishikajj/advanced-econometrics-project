@@ -6,7 +6,7 @@ Replication and extension of *The Short-Term Impact of Unconditional Cash Transf
 
 ## Notebooks
 
-### `dataviewing.ipynb` — Main replication
+### `replication_and_extension.ipynb` — Main replication
 Replicates Tables 1–6 from the paper:
 - **Table 1**: Baseline balance checks
 - **Table 2**: Main treatment effects on 8 summary indices (assets, consumption, food security, health, education, psychological well-being, enterprise, intrahousehold empowerment)
